@@ -1,0 +1,15 @@
+{
+  "djs": {
+    "747819709537190001": {
+      "name": "strannik",
+      "server": "192.168.31.240",
+      "port": "9000",
+      "password": "mKZhn10s42"
+    }
+  },
+  "active_dj": "747819709537190001",
+  "request_channel": null,
+  "dj_panel_channel": "1500719735870853160",
+  "dj_panel_message": "1500727345093279818",
+  "log_channel": "1500719735870853160"
+}
